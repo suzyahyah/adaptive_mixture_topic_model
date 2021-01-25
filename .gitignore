@@ -1,0 +1,10 @@
+data
+news_logs
+wiki_logs
+build
+subsample
+assets/embeddings/*
+logs
+results/*
+code/topicModelP/__pycache__/*
+code/__pycache__/*

@@ -1,0 +1,22 @@
+# Embeddings
+en_multi_embed: assets/embeddings/wiki.multi.en.vec
+fr_multi_embed: assets/embeddings/wiki.multi.fr.vec
+ro_multi_embed: assets/embeddings/wiki.multi.ro.vec
+pl_multi_embed: assets/embeddings/wiki.multi.pl.vec
+es_multi_embed: assets/embeddings/wiki.multi.es.vec
+
+
+# parallel docs
+parallel_en: data/simple_english/wiki_simple.parall
+
+parallel_fr: data/french/wiki_fr.parall
+parallel_enfr: data/french/wiki_enfr.parall
+
+parallel_ro: data/romanian/wiki_ro.parall
+parallel_enro: data/romanian/wiki_enro.parall
+
+parallel_pl: /home/ssia/projects/crossLing_topic_IR/data/polish/wiki_pl.parall
+parallel_enpl: /home/ssia/projects/crossLing_topic_IR/data/polish/wiki_enpl.parall
+
+parallel_es: /home/ssia/projects/crossLing_topic_IR/data/spanish/wiki_es.parall
+parallel_enes: /home/ssia/projects/crossLing_topic_IR/data/spanish/wiki_enes.parall
